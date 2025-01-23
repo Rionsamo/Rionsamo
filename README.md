@@ -11,7 +11,8 @@ Very greatful for answering questions. Please use my Twitter or Email to contact
 
 
 ### Projects i'm working on
-- Nothing Announced yet.
+- Peanut: An Elephant Log-File Viewer
+- Nothing else announced yet.
 
 <!--
 **Rionsamo/Rionsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
